@@ -1,2 +1,2 @@
-# Kickstarter_pred
-Trying to [redict if a project will be successfull on Kickstarter before the start of him 
+# heart_desease_pred
+tryng to predict if with certain data we can predict if the patience have some heart problems 
