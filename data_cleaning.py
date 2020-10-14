@@ -14,6 +14,9 @@ pd.set_option('display.width', None)
 
 # importing data and read them
 data_path = "data /heart_failure_clinical_records_dataset.csv"
-data = pd.read_csv(data_path)
-print(data.head())
+data_frame = pd.read_csv(data_path)
+print(data_frame.head())
 
+# check for missing values
+# check for unwanted values
+# filter the outliers
